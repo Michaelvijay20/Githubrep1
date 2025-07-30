@@ -1,3 +1,2 @@
-text1
-i have added line 2 
-Have added this line when the file was in Main 
+echo" This is my first code"
+mkdir testfile
